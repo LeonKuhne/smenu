@@ -7,8 +7,7 @@ from urllib.parse import urlencode
 
 shortcuts = {
     'calendar': 'https://calendar.google.com/calendar/',
-    'mycourses': 'https://mycourses.rit.edu/',
-    'leees.store': 'https://leees.store/'
+    'mycourses': 'https://mycourses.rit.edu/'
 }
 
 # PROMPT USER
